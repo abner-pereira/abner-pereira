@@ -2,7 +2,7 @@
 ## Let's talk about programming!
 
 - 👋 Hi, I’m Abner Pereira
-- 👀 I’m interested in ABAP, SAPUI5, JavaScript and Node.js
+- 👀 I’m interested in ABAP, SAPUI5, JavaScript, TypeScript and Node.js
 - 🌱 I’m currently learning ABAP and JavaScript
 
 <!---
