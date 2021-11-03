@@ -1,4 +1,4 @@
-# Hi there!😊
+# Hi there!😎
 ## Let's talk about programming!
 
 - 👋 Hi, I’m Abner Pereira
