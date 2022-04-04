@@ -3,10 +3,10 @@
 
 - 👋 Hi, I’m Abner Pereira
 - 👀 I’m interested in... 
-  - ABAP; 
-  - JavaScript; 
-  - TypeScript;
-  - Rust.
+  - ABAP (RESTful)
+  - JavaScript (Node.js) 
+  - TypeScript
+  - Rust
 - 🌱 I’m currently learning ABAP and JavaScript
 
 <!---
