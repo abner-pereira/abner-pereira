@@ -4,8 +4,8 @@
 - 👋 Hi, I’m Abner Pereira
 - 👀 I’m interested in... 
   - ABAP (RESTful)
-  - JavaScript (Node.js and OpenUI5)
-- 🌱 I’m currently learning ABAP and JavaScript
+  - Javascript (Node.js and SAPUI5/OpenUI5)
+- 🌱 I’m currently learning ABAP and Javascript
 
 <!---
 abner-pereira/abner-pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
