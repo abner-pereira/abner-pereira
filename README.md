@@ -5,7 +5,6 @@
 - 👀 I’m interested in... 
   - ABAP (RESTful)
   - JavaScript (Node.js and OpenUI5)
-  - Rust
 - 🌱 I’m currently learning ABAP and JavaScript
 
 <!---
