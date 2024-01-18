@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Abner Pereira
 - 👀 I’m interested in... 
   - ABAP (RESTful)
-  - Javascript (Node.js and SAPUI5/OpenUI5)
+  - Javascript (Node.js and UI5)
 - 🌱 I’m currently learning ABAP and Javascript
 
 <!---
